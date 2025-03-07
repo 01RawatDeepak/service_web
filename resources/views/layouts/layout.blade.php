@@ -1,0 +1,8 @@
+@include('panel.header-top')
+@yield ('style')
+@include('panel.header-bottom')
+@include('panel.menu')
+@yield('content')
+@include('panel.footer-top')
+@yield('script')
+@include('panel.footer-bottom')
