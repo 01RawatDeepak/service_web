@@ -9,13 +9,13 @@
     <meta name="keywords" content="">
     <meta name="author" content="Awaiken">
     
-    <title>Fintech - Business Consulting HTML Template</title>
+    <title>Service Web</title>
    
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+    <!-- <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
     
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;display=swap" rel="stylesheet">   
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;display=swap" rel="stylesheet">    -->
     <link href="{{ asset('build/assets/css/bootstrap.min.css') }}" rel="stylesheet" media="screen">    
     <link href="{{ asset('build/assets/css/slicknav.min.css') }}" rel="stylesheet">
     <link href="{{ asset('build/assets/css/slicknav.min.css') }}" rel="stylesheet">    
