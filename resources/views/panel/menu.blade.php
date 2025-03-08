@@ -3,7 +3,7 @@
 			<nav class="navbar navbar-expand-lg py-2" >
 				<div class="container">
 					<!-- Logo Start -->
-					<a class="navbar-brand" href="index-2.html">
+					<a class="navbar-brand" href="#">
 						<!-- <img src="{{ asset('build/assets/images/logo.svg') }}" alt="Logo"> -->
                          <p class="text-white fw-bold h4">Servies Web</p>
 					</a>
@@ -21,10 +21,10 @@
                                         <li class="nav-item"><a class="nav-link" href="index-slider.html">Home - Slider</a></li>
                                     </ul>
                                 </li>                                 -->
-                                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a>
-                                <li class="nav-item"><a class="nav-link" href="about.html">Services</a>
-                                <li class="nav-item"><a class="nav-link" href="about.html">Blogs</a>
-                                <li class="nav-item"><a class="nav-link" href="about.html">Contact Us</a>
+                                <li class="nav-item"><a class="nav-link" href="#">About Us</a>
+                                <li class="nav-item"><a class="nav-link" href="#">Services</a>
+                                <li class="nav-item"><a class="nav-link" href="#">Blogs</a>
+                                <li class="nav-item"><a class="nav-link" href="#">Contact Us</a>
                                 <!-- <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
                                 <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
                                 <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
